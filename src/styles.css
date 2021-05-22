@@ -1,0 +1,26 @@
+.parent{
+	background-color: #A771FE;
+	color: white;
+	font-weight: 900;
+	font-family: Roboto;
+	height: 100vh;
+	margin-top: -21px;
+}
+.header{
+	text-align: center;
+	width: 50%;
+	margin: auto;
+}
+.carousel-element{
+	background-color: #852EBA;
+	width: 220px;
+	height: 290px;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 20px;
+	text-align: center;
+}
+.carousel-image{
+	width: 200px;
+	margin-left: 20px;
+}
